@@ -23,8 +23,6 @@
 구현에만 집중할 수 있도록 mock 데이터와 호출용 promise 함수를 제공해 드리니 아래를 사용하시길 바랍니다.
 
 ### 시현영상
-### 시현 영상
-
 <video width="300" height="480" controls>
   <source src=["https://github.com/user/repo/path/to/your_video.mp4](https://github.com/user-attachments/assets/7b45da39-1804-4d3c-af3d-7a43cf0dd3f2)" type="video/mp4">
   Your browser does not support the video tag.
