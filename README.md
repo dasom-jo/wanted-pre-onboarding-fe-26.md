@@ -1,5 +1,8 @@
 # 프리온보딩 FE 챌린지 10월 (2024) | 리액트 오픈소스 펼쳐보기
 
+### 시현영상
+![화면 녹화 중 2024-10-07 173234](https://github.com/user-attachments/assets/501292a3-1dd7-4a32-abfb-8ff17ca47229)
+
 ## 챌린지 과제 제출 방법
 > 과제를 진행한 repository의 링크를 Gist Comment에 남겨주세요.
 
@@ -22,8 +25,7 @@
 ### 첨부 코드
 구현에만 집중할 수 있도록 mock 데이터와 호출용 promise 함수를 제공해 드리니 아래를 사용하시길 바랍니다.
 
-### 시현영상
-![화면 녹화 중 2024-10-07 173234](https://github.com/user-attachments/assets/501292a3-1dd7-4a32-abfb-8ff17ca47229)
+
 
 <details>
 
